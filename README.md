@@ -1,7 +1,7 @@
-# Project Title: ETL Data Pipeline for Stock Market Analysis
+# Project Title : Stock Synthesis: A Comprehensive ETL Pipeline for Market Analysis and Visualization Using Dagster, MongoDB, and PostgreSQL
 
 ## Overview
-This repository contains all the necessary code and documentation for building an ETL (Extract, Transform, Load) data pipeline aimed at analyzing stock market data. The pipeline utilizes the Dagster framework to manage the workflow efficiently, ensuring robust data processing, transformation, and storage capabilities.
+This repository contains all the necessary code and documentation for building an ETL (Extract, Transform, Load) data pipeline aimed at analyzing stock market data of Apple and NASDAQ. The pipeline utilizes the Dagster framework to manage the workflow efficiently, ensuring robust data processing, transformation, and storage capabilities.
 
 ## Features
 - Data Extraction: Automates the fetching of data from various stock market APIs.
